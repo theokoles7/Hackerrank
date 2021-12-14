@@ -1,5 +1,7 @@
 # HackerRank
 A repo to hold my hacker rank solutions:
+
+## Warm Ups
 1. Solve Me First
 2. Simple Array Sum
 3. Compare the Triplets
@@ -9,3 +11,4 @@ A repo to hold my hacker rank solutions:
 7. Staircase
 8. Mini-Max Sum
 9. Birthday Cake Candles
+10. Time Conversion

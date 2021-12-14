@@ -1,5 +1,5 @@
 # HackerRank
-A repo to hold my hacker rank solutions:
+A repo to hold my hacker rank solutions
 
 ## Warm Ups
 1. Solve Me First

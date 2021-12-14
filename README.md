@@ -12,3 +12,7 @@ A repo to hold my hacker rank solutions
 8. Mini-Max Sum
 9. Birthday Cake Candles
 10. Time Conversion
+
+## Implementation
+1. Grading Students
+2. Count Apples and Oranges

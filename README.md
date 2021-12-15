@@ -20,3 +20,4 @@ A repo to hold my hacker rank solutions
 4. Between Two Sets
 5. Birthday
 6. Divisible Sum Pairs
+7. Migratory Birds

@@ -19,3 +19,4 @@ A repo to hold my hacker rank solutions
 3. Breaking Records
 4. Between Two Sets
 5. Birthday
+6. Divisible Sum Pairs

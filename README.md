@@ -16,3 +16,6 @@ A repo to hold my hacker rank solutions
 ## Implementation
 1. Grading Students
 2. Count Apples and Oranges
+3. Breaking Records
+4. Between Two Sets
+5. Birthday

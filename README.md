@@ -21,3 +21,5 @@ A repo to hold my hacker rank solutions
 5. Birthday
 6. Divisible Sum Pairs
 7. Migratory Birds
+8. Kangaroo
+9. Day of the Programmer

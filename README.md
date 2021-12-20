@@ -27,3 +27,4 @@ A repo to hold my hacker rank solutions
 11. Sock Merchant
 12. Page Count
 13. Counting Valleys
+14. Get Money Spent

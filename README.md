@@ -24,3 +24,4 @@ A repo to hold my hacker rank solutions
 8. Kangaroo
 9. Day of the Programmer
 10. Bon Appetit
+11. Sock Merchant

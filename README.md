@@ -25,3 +25,4 @@ A repo to hold my hacker rank solutions
 9. Day of the Programmer
 10. Bon Appetit
 11. Sock Merchant
+12. Page Count

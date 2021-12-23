@@ -31,3 +31,4 @@ A repo to hold my hacker rank solutions
 15. Cat and Mouse
 16. Forming Magic Square
 17. Picking Numbers
+18. Hurdle Race

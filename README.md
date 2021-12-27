@@ -35,3 +35,4 @@ A repo to hold my hacker rank solutions
 19. Designer PDF Viewer
 20. Utopian Tree
 21. Angry Professor
+22. Beautiful Days

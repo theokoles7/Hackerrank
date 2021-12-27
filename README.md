@@ -39,3 +39,4 @@ A repo to hold my hacker rank solutions
 23. Viral Advertising
 24. Save the Prisoner
 25. Circular Array Rotation
+26. Permutation Equation

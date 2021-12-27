@@ -42,3 +42,7 @@ A repo to hold my hacker rank solutions
 26. Permutation Equation
 27. Jumping on Clouds
 28. Find Digits
+29. Extra Long Factorial
+30. Append and Delete
+31. Squares
+32. Library Fine

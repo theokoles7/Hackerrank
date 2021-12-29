@@ -46,3 +46,7 @@ A repo to hold my hacker rank solutions
 30. Append and Delete
 31. Squares
 32. Library Fine
+33. Cut The Sticks
+34. Jumping on the Clouds
+35. Equalize Array
+36. Repeated String

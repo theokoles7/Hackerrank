@@ -50,3 +50,4 @@ A repo to hold my hacker rank solutions
 34. Jumping on the Clouds
 35. Equalize Array
 36. Repeated String
+37. Taum BDay

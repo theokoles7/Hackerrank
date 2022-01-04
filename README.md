@@ -51,3 +51,4 @@ A repo to hold my hacker rank solutions
 35. Equalize Array
 36. Repeated String
 37. Taum BDay
+38. Beautiful Triplets
